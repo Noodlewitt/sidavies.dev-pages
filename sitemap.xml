@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://sidavies.dev/blog/hello-world</loc></url>
-  <url><loc>https://sidavies.dev/</loc></url>
-  <url><loc>https://sidavies.dev/blog</loc></url>
-  <url><loc>https://sidavies.dev/categories</loc></url>
-  <url><loc>https://sidavies.dev/categories/news</loc></url>
-  <url><loc>https://sidavies.dev/categories/guides</loc></url>
-  <url><loc>https://sidavies.dev/categories/guides/ballbags</loc></url>
+  <url><loc>https://localhost:8051/blog/hello-world</loc></url>
+  <url><loc>https://localhost:8051/</loc></url>
+  <url><loc>https://localhost:8051/blog</loc></url>
+  <url><loc>https://localhost:8051/categories</loc></url>
+  <url><loc>https://localhost:8051/categories/news</loc></url>
+  <url><loc>https://localhost:8051/categories/guides</loc></url>
 </urlset>
